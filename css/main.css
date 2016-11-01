@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: arial;
+	font-weight: 600;
+	color: black;
+}
+
+#clock {
+	display: inline-block;
+	text-align: center;
+	width: auto;
+}
+
+#clock > div {
+	display: inline-block;
+}
+
+#clock div > span {
+	display: inline-block;
+	font-size: 140px;
+	font-weight: 600;
+	font-family: arial;
+}
+
+#clock > .semicolon {
+	font-size: 140px;
+}
+
+#clock > #secondsbox {
+	color: red;
+}
+
+.timeCaption {
+	font-size: 25px;
+	font-weight: 600;
+	font-family: arial;
+	margin-right: 25px;
+}
+
