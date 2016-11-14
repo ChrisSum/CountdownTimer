@@ -1,4 +1,4 @@
-1) Approximately 50 minutes were spent on this assignment.
+1) Approximately 45 minutes were spent on this assignment.
 
 2) I decided to use JavaScript for its ease of use when dealing with HTML elements. Also the easy to use alert method for the user message played a part in my decision. This assignment was written in Sublime Text Editor and Google Chrome developer inspection tools were used to test and debug.
 
